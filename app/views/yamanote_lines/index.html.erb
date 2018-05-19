@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Yamanote Lines</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Station</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @yamanote_lines.each do |yamanote_line| %>
+      <tr>
+        <td><%= yamanote_line.station %></td>
+        <td><%= link_to 'Show', yamanote_line %></td>
+        <td><%= link_to 'Edit', edit_yamanote_line_path(yamanote_line) %></td>
+        <td><%= link_to 'Destroy', yamanote_line, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Yamanote Line', new_yamanote_line_path %>

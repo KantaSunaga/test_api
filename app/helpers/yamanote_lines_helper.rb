@@ -1,0 +1,2 @@
+module YamanoteLinesHelper
+end

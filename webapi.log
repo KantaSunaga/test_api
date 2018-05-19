@@ -1,0 +1,159 @@
+E, [2018-05-19T17:07:48.381171 #23183] ERROR -- : 743: unexpected token at '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<title>livedoor 天気情報</title>
+<META http-equiv=Refresh content="5; URL=http://www.livedoor.com">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<style type="text/css">
+<!--
+body{background:#fff;text-align:center;margin-left:0px;margin-right:0px;}
+ .maincolor{background:#556699;color:#fff;} 
+#maincont{padding-bottom:30px;}
+#footer{border-top:1px solid #b6b6b6;padding:10px 0px;width:775px;margin:0 auto;text-align:center;}
+-->
+</style>
+</head>
+<body><a name="top"></a>
+<!-- Header -->
+<table border="0" cellpadding="0" cellspacing="0"  width="775" align="center" style="margin:0 auto;">
+<tr>
+	<td nowrap><a href="http://www.livedoor.com/"><img src="/img/cmn/livedoor.gif" width="118" height="26" border="0" alt="livedoor"></a><a href="/" name="top"><img src="/img/cmn/tenki.gif" width="89" height="26" border="0" alt="天気情報" style="margin-left:3px;"></a><a href="/" name="top"><img src="/img/cmn/tenki_icon.gif" width="28" height="26" border="0" alt="livedoor 天気情報" style="margin-left:3px;"></a></td>
+	<td align="right" valign="top" nowrap><small><a href="http://www.livedoor.com/">livedoorホーム</a></small></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0"  width="775" align="center" style="margin-top:10px;">
+<tr>
+	<td><h1 class="maincolor" style="padding:3px 10px;margin:0 auto;text-align:left;font-size:1em;">livedoor 天気情報</h1></td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" style="margin:30px auto;">
+<tr>
+<td align="center" style="padding-bottom:20px;">
+<img src="http://www.livedoor.com/img/cmn/icon_attention.gif" width="25" height="20" border="0" align="absmiddle"><strong>指定されたページまたはファイルは存在しません。</strong></td>
+</tr>
+<tr>
+<td nowrap style="line-height:135%;">・URL、ファイル名にタイプミスがないかご確認ください。<br>
+・指定されたページは削除されたか、移動した可能性があります。</td>
+</tr>
+<tr>
+<td style="padding:100px 0 0;" align="center"><a href="http://www.livedoor.com/" class="blue">livedoorホームへ戻る</a></td>
+</tr>
+<tr>
+<td style="padding:20px 0 30px;" align="center">このページは5秒後、自動的にlivedoor TOP へ戻ります</td>
+</tr>
+</table>
+
+<div align="center"><div id="footer"><small><div style="margin-bottom:5px;"><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a>&nbsp;&nbsp;&nbsp;<a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></div><script language="javascript" src="http://www.livedoor.com/js/footer.js"></script></small></div></div>
+</body>
+</html>
+
+'
+E, [2018-05-19T17:08:02.136128 #23183] ERROR -- : 743: unexpected token at '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<title>livedoor 天気情報</title>
+<META http-equiv=Refresh content="5; URL=http://www.livedoor.com">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<style type="text/css">
+<!--
+body{background:#fff;text-align:center;margin-left:0px;margin-right:0px;}
+ .maincolor{background:#556699;color:#fff;} 
+#maincont{padding-bottom:30px;}
+#footer{border-top:1px solid #b6b6b6;padding:10px 0px;width:775px;margin:0 auto;text-align:center;}
+-->
+</style>
+</head>
+<body><a name="top"></a>
+<!-- Header -->
+<table border="0" cellpadding="0" cellspacing="0"  width="775" align="center" style="margin:0 auto;">
+<tr>
+	<td nowrap><a href="http://www.livedoor.com/"><img src="/img/cmn/livedoor.gif" width="118" height="26" border="0" alt="livedoor"></a><a href="/" name="top"><img src="/img/cmn/tenki.gif" width="89" height="26" border="0" alt="天気情報" style="margin-left:3px;"></a><a href="/" name="top"><img src="/img/cmn/tenki_icon.gif" width="28" height="26" border="0" alt="livedoor 天気情報" style="margin-left:3px;"></a></td>
+	<td align="right" valign="top" nowrap><small><a href="http://www.livedoor.com/">livedoorホーム</a></small></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0"  width="775" align="center" style="margin-top:10px;">
+<tr>
+	<td><h1 class="maincolor" style="padding:3px 10px;margin:0 auto;text-align:left;font-size:1em;">livedoor 天気情報</h1></td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" style="margin:30px auto;">
+<tr>
+<td align="center" style="padding-bottom:20px;">
+<img src="http://www.livedoor.com/img/cmn/icon_attention.gif" width="25" height="20" border="0" align="absmiddle"><strong>指定されたページまたはファイルは存在しません。</strong></td>
+</tr>
+<tr>
+<td nowrap style="line-height:135%;">・URL、ファイル名にタイプミスがないかご確認ください。<br>
+・指定されたページは削除されたか、移動した可能性があります。</td>
+</tr>
+<tr>
+<td style="padding:100px 0 0;" align="center"><a href="http://www.livedoor.com/" class="blue">livedoorホームへ戻る</a></td>
+</tr>
+<tr>
+<td style="padding:20px 0 30px;" align="center">このページは5秒後、自動的にlivedoor TOP へ戻ります</td>
+</tr>
+</table>
+
+<div align="center"><div id="footer"><small><div style="margin-bottom:5px;"><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a>&nbsp;&nbsp;&nbsp;<a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></div><script language="javascript" src="http://www.livedoor.com/js/footer.js"></script></small></div></div>
+</body>
+</html>
+
+'
+E, [2018-05-19T17:08:05.171812 #23183] ERROR -- : 743: unexpected token at '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<title>livedoor 天気情報</title>
+<META http-equiv=Refresh content="5; URL=http://www.livedoor.com">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<style type="text/css">
+<!--
+body{background:#fff;text-align:center;margin-left:0px;margin-right:0px;}
+ .maincolor{background:#556699;color:#fff;} 
+#maincont{padding-bottom:30px;}
+#footer{border-top:1px solid #b6b6b6;padding:10px 0px;width:775px;margin:0 auto;text-align:center;}
+-->
+</style>
+</head>
+<body><a name="top"></a>
+<!-- Header -->
+<table border="0" cellpadding="0" cellspacing="0"  width="775" align="center" style="margin:0 auto;">
+<tr>
+	<td nowrap><a href="http://www.livedoor.com/"><img src="/img/cmn/livedoor.gif" width="118" height="26" border="0" alt="livedoor"></a><a href="/" name="top"><img src="/img/cmn/tenki.gif" width="89" height="26" border="0" alt="天気情報" style="margin-left:3px;"></a><a href="/" name="top"><img src="/img/cmn/tenki_icon.gif" width="28" height="26" border="0" alt="livedoor 天気情報" style="margin-left:3px;"></a></td>
+	<td align="right" valign="top" nowrap><small><a href="http://www.livedoor.com/">livedoorホーム</a></small></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0"  width="775" align="center" style="margin-top:10px;">
+<tr>
+	<td><h1 class="maincolor" style="padding:3px 10px;margin:0 auto;text-align:left;font-size:1em;">livedoor 天気情報</h1></td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" style="margin:30px auto;">
+<tr>
+<td align="center" style="padding-bottom:20px;">
+<img src="http://www.livedoor.com/img/cmn/icon_attention.gif" width="25" height="20" border="0" align="absmiddle"><strong>指定されたページまたはファイルは存在しません。</strong></td>
+</tr>
+<tr>
+<td nowrap style="line-height:135%;">・URL、ファイル名にタイプミスがないかご確認ください。<br>
+・指定されたページは削除されたか、移動した可能性があります。</td>
+</tr>
+<tr>
+<td style="padding:100px 0 0;" align="center"><a href="http://www.livedoor.com/" class="blue">livedoorホームへ戻る</a></td>
+</tr>
+<tr>
+<td style="padding:20px 0 30px;" align="center">このページは5秒後、自動的にlivedoor TOP へ戻ります</td>
+</tr>
+</table>
+
+<div align="center"><div id="footer"><small><div style="margin-bottom:5px;"><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a>&nbsp;&nbsp;&nbsp;<a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></div><script language="javascript" src="http://www.livedoor.com/js/footer.js"></script></small></div></div>
+</body>
+</html>
+
+'

@@ -1,0 +1,22 @@
+<%= form_with(model: yamanote_line, local: true) do |form| %>
+  <% if yamanote_line.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(yamanote_line.errors.count, "error") %> prohibited this yamanote_line from being saved:</h2>
+
+      <ul>
+      <% yamanote_line.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :station %>
+    <%= form.text_field :station, id: :yamanote_line_station %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
